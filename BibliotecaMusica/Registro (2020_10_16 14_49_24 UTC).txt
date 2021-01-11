@@ -1,0 +1,23 @@
+2020-06-14 18:21:16.74 - Información --> El perfil del productor/a 'Charlotte de Witte' se ha creado correctamente
+2020-06-14 18:47:54.893 - Información --> Se ha eliminado el perfil del productor/a 'Aurora' de la base de datos.
+2020-06-14 18:48:12.448 - Información --> Se ha eliminado el tema 'Omega'de la base de datos.
+2020-06-14 18:48:28.786 - Información --> Se ha eliminado el tema 'Genial'de la base de datos.
+2020-06-14 18:55:26.818 - Información --> Se ha creado el perfil del productor/a 'Charlotte de Witte'
+2020-06-14 18:55:53.076 - Información --> Se ha consultado el perfil de 'Charlotte'
+2020-06-14 19:00:08.394 - Información --> Se ha creado el perfil del productor/a 'Schacke'
+2020-06-14 19:06:14.442 - Información --> Se ha creado el perfil del productor/a 'Peggy Gou'
+2020-06-14 19:10:11.266 - Información --> Se ha creado el perfil del productor/a 'Indira Paganotto'
+2020-06-14 19:15:28.602 - Error --> [SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: producers.Mixcloud)
+2020-06-14 19:15:28.602 - Información --> Se ha creado el perfil del productor/a 'Nico Moreno'
+2020-06-14 19:19:02.575 - Información --> Se ha creado el perfil del productor/a 'Nico Moreno'
+2020-06-14 19:23:01.228 - Error --> [SQLITE_BUSY]  The database file is locked (database is locked)
+2020-06-14 19:23:01.229 - Información --> Se ha creado el tema 'Purple Widow'
+2020-06-14 19:24:16.528 - Error --> [SQLITE_BUSY]  The database file is locked (database is locked)
+2020-06-14 19:24:16.53 - Información --> Se ha creado el tema 'Purple Widow'
+2020-06-14 19:26:29.972 - Información --> Se ha creado el tema 'Purple Widow'
+2020-06-14 19:30:13.043 - Error --> [SQLITE_BUSY]  The database file is locked (database is locked)
+2020-06-14 19:30:13.044 - Información --> Se ha creado el tema 'She Is Corrupted'
+2020-06-14 19:32:49.727 - Información --> Se ha creado el tema 'Kisloty People'
+2020-06-14 19:35:39.697 - Información --> Se ha creado el tema 'Return to Nowhere'
+2020-06-14 19:37:44.917 - Información --> Se ha creado el tema 'Starry Night'
+2020-06-14 19:40:02.774 - Información --> Se ha creado el tema 'Santa Fe'
